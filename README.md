@@ -75,7 +75,7 @@ Here are examples of what's included:
 
 ## 📸 Visual Reference
 
-Snapshots of sample query outputs are available on my **[LinkedIn profile](#www.linkedin.com/in/deepak-patil-23772b252)**. *(Replace with actual link)*
+Snapshots of sample query outputs are available on my **[LinkedIn profile](https://www.linkedin.com/in/deepakpatil-23772b252/)**.
 
 ---
 
